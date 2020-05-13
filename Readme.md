@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Евгений Тюрин](https://up.htmlacademy.ru/htmlcss/28/user/88443).
-* Наставник: [Денис Байдаров] (https://htmlacademy.ru/profile/4er)
+* Наставник: [Денис Байдаров](https://htmlacademy.ru/profile/id7956).
 
 ---
 
